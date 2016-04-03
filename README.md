@@ -9,5 +9,5 @@ here is a example of 2048
 
 
 
-2016/4/3 10:29:31   
+updated 2016/4/3 10:29:31   
  version:0.0.3 
