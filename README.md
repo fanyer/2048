@@ -1,2 +1,13 @@
-# 2048
-2048的js实现
+2048
+====
+
+---------------
+
+Realizing web game by  function-Oriented  Method
+
+here is a example of 2048
+
+
+
+2016/4/3 10:29:31   
+ version:0.0.3 
